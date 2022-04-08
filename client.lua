@@ -10,7 +10,7 @@ for i = 0, 255 do
 end
 
 
-		SetDiscordAppId(client_id) -- ต้องแก้
+		SetDiscordAppId(client_id)
 
 
 		SetDiscordRichPresenceAsset('asset_name1024')
